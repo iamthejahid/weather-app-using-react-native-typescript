@@ -1,8 +1,12 @@
-# Description
+## Description
 
-## Changes :
+### Purpose
 
-- [ ]
+### Content of PR Template
+
+## Impact
+
+## Changes:
 
 ## Type of Change
 
